@@ -143,7 +143,7 @@ header {
     }
 
 
-    .togglebutton {
+    .togglebutton{
         display: flex;
     }
 
@@ -158,9 +158,9 @@ header {
     }
 
 
-    #menu-toggle:checked ~ .navigationlinks {
+     #menu-toggle:checked ~ .navigationlinks {
         display: flex;
-    }
+     } 
 
 }
 
